@@ -1,38 +1,4 @@
----
-categories:
-  - AnalisaR
-  - Ciência de dados
-  - Data science
-  - Numerical ecology
-  - Ecologia numérica
-tags:
-  - R
-  - programação
-  - curiosidades R
-  - R programming
-  - Programação em R
-  - Ecology
-  - Numerical ecology
-  - Ecologia
-  - Ecologia numérica
-output: 
-  html_document:
-    theme: darkly
-    highlight: breezedark
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    colapse: true
-    smooth_scroll: false
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# **Equipe AnalisaR**{.tabset .tabset-fade .tabset-pills}
-
-### **Vitor Borges Jr**{.tabset}
+### **Vitor Borges Jr**
 
 <p><img style="float: right;margin:5px 20px 5px 1px" src="/home/cla/Documentos/Vitor/vntborgesjr/imagens/Vitor-Borges-Jr1.png"></p>
 <!--
@@ -46,11 +12,12 @@ Sou biólogo de formação, especializado em ecologia de populações e comunida
 
 [Lattes](http://lattes.cnpq.br/2313576480433850)
 
+[GitHub](https://github.com/vntborgesjr)
 
-### [AnalisaR](index.html){.tabset}
+E-mail: [vntborgesjr@gmail.com](vntborgesjr@gmail.com)
 
-### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
+### [AnalisaR](index.html)
 
-### [Portifolio](Portifolio.html){.tabset}
+### [Blog AnalisaR](Blog-AnalisaR.html)
 
-### [Contato](Contato.html){.tabset}
+### [Portifolio](Portifolio.html)
