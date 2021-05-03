@@ -12,8 +12,5 @@ Sou biólogo de formação, especializado em ecologia de populações e comunida
 
 E-mail: [vntborgesjr@gmail.com](vntborgesjr@gmail.com)
 
-### [AnalisaR](https://vntborgesjr.github.io/AnalisaR/#AnalisaR)
-
 ### [Blog AnalisaR](https://vntborgesjr.github.io/AnalisaR/Blog-AnalisaR.html)
 
-### [Portifolio](https://vntborgesjr.github.io/AnalisaR/Portifolio.html)
