@@ -2,8 +2,26 @@
 title: "index"
 output: 
   html_document:
-    theme: darkly
-    highlight: breezedark
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
+categories:
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
 ---
 
 ### **Vitor Borges Jr**
@@ -25,8 +43,8 @@ E-mail: [vntborgesjr@gmail.com](vntborgesjr@gmail.com)
 
 ### Visite os links abaixo!!!
 
-### [AnalisaR](https://vntborgesjr.github.io/AnalisaR/#AnalisaR)
-
 ### [Blog AnalisaR](https://vntborgesjr.github.io/AnalisaR/Blog-AnalisaR.html)
 
-### [Portifolio](https://vntborgesjr.github.io/AnalisaR/Portifolio.html)
+### [Cursos AnalisaR](https://vntborgesjr.github.io/AnalisaR/Cursos.html)
+
+### [Contato](Contato.html)
