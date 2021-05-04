@@ -45,6 +45,10 @@ E-mail: [vntborgesjr@gmail.com](vntborgesjr@gmail.com)
 
 ### [Blog AnalisaR](https://vntborgesjr.github.io/AnalisaR/)
 
+### [Postagens AnalisaR](https://vntborgesjr.github.io/AnalisaR/Posts.html)
+
+### [**Consultoria AnalisaR**]()
+
 ### [Cursos AnalisaR](https://vntborgesjr.github.io/AnalisaR/Cursos.html)
 
 ### [Contato](Contato.html)
